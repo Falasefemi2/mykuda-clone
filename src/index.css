@@ -20,3 +20,18 @@
 .kuda-animation {
     animation: slide-in-out .6s cubic-bezier(.455,.03,0,1) forwards;
 }
+
+.btn-white {
+    color: white
+}
+
+.btn-color {
+    border-color: #dfe3ff;
+    background-color: #dfe3ff;
+    color: #40196d;
+}
+
+.hero {
+    min-height: calc(100vh - 120px);
+    transform: translateY(0);
+}
